@@ -1,0 +1,6 @@
+
+type = Stock{symbol=appl, name=apple, quantity=10, price=13.0, bookValue=139.99, gain=0.0}
+type = Stock{symbol=amz, name=amazon, quantity=15, price=18.0, bookValue=279.99, gain=0.0}
+type = Stock{symbol=appl, name=apple, quantity=10, price=135.0, bookValue=125.99100000000001, gain=-127.98100000000001}
+type = Stock{symbol=amz, name=amazon, quantity=15, price=136.0, bookValue=186.66, gain=483.35}
+type = Stock{symbol=fc, name=facebook, quantity=10, price=15.0, bookValue=159.99, gain=0.0}

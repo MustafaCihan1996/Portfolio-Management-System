@@ -1,0 +1,5 @@
+Compsci 3 3.12 Cihan
+mat 2 2.12 fms 
+geo 1 1.11 rty 
+bio 2 2.11 gul 
+history 2 3.11 Ozturk will true Ryerson
