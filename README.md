@@ -1,2 +1,2 @@
 # Portfolio-Management-System
-Portfolio-Management-System that allow users to buy, sell, update and search their investment and make profit from their investment. Various object oriented concepts including polymorphism, overriding, overloading has been used in this project.
+Portfolio-Management-System that allows users to buy, sell, update, and search for their investment and make a profit from their investment. Various object-oriented concepts, including polymorphism, overriding, and overloading, have been used in this project.
